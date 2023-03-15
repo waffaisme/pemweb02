@@ -78,3 +78,4 @@ echo "Produk: $produk <br>";
 echo "Jumlah Pembeliam: $jumlah <br>";
 echo "harga: " . $price[$produk] * $jumlah;
 };
+?>
