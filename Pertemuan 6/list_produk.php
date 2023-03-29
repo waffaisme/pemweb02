@@ -24,7 +24,6 @@
                         <td><?=$nomor?></td>
                         <td><?=$row['kode']?></td>
                         <td><?=$row['nama']?></td>
-                        <td><?=$row['stok']?></td>
                         <td><?=$row['harga_jual']?></td>
                         <td><?=$row['stok']?></td>
                         <td>
